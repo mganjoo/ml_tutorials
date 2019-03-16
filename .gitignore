@@ -1,0 +1,22 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Egg info
+*.egg-info
+
+# DotEnv
+.env
+
+# Log files
+/logs/
+
+# Spyder
+.spyproject/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Exclude data directories
+/data/
