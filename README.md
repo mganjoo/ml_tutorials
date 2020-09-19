@@ -1,6 +1,6 @@
 # ML Tutorials
 
-A collection of tutorials walking through some key ML concepts. I adapted these
+A collection of tutorials walking through some key ML concepts that I started with a while ago while developing some practical explainers. I adapted these
 from some of the
 [TensorFlow tutorials](https://www.tensorflow.org/tutorials).
 
